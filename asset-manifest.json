@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pizzafre/static/css/main.68841a8d.css",
+    "main.js": "/pizzafre/static/js/main.a05612b5.js",
+    "static/js/787.cb12ecc9.chunk.js": "/pizzafre/static/js/787.cb12ecc9.chunk.js",
+    "index.html": "/pizzafre/index.html",
+    "main.68841a8d.css.map": "/pizzafre/static/css/main.68841a8d.css.map",
+    "main.a05612b5.js.map": "/pizzafre/static/js/main.a05612b5.js.map",
+    "787.cb12ecc9.chunk.js.map": "/pizzafre/static/js/787.cb12ecc9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68841a8d.css",
+    "static/js/main.a05612b5.js"
+  ]
+}
